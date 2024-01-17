@@ -1,26 +1,12 @@
-hi, this is colon from the future.
-
-what the FUCK was wrong with me back then???? seriously this is some of the worst code i've ever seen
-
-welp, here's the readme. but you've been warned,,,
-
-
-# GDBrowser
+# GDBrowser +
+ SHIT IS ABOUT TO GO DOWN
 
   
-
-Uh... so I've never actually used GitHub before this. But I'll try to explain everything going on here.
-
-  
-
-Sorry for my messy code. It's why I was skeptical about making this open source, but you know what, the code runs fine in the end.
-
-  
-  ## How do I run this?
-If you're just here to use GDBrowser locally because the site is down or blocked or restricted or god knows what, this is the only part you really need to read
+## How do I run this?
+If you're just here to use GDBrowser + locally because the site is down or blocked or restricted or god knows what, this is the only part you really need to read
 
 
-To run GDBrowser locally:
+To run GDBrowser + locally:
 1) Install [node.js](https://nodejs.org/en/download/) if you don't already have it
 2) Clone/download this repository  
 3) Open cmd/powershell/terminal in the main folder (with index.js)
@@ -38,7 +24,7 @@ If you want to disable rate limits, ip forwarding, etc you can do so by modifyin
 Hold up, wait a minute... private servers are an official feature now!
 
 
-If you would like to add your GDPS to GDBrowser, [fill out this quick form](https://forms.gle/kncuRqyKykQX42QD7) and I'll be happy to add it (provided the server is relatively large and active)
+If you would like to add your GDPS to GDBrowser +, [fill out this quick form]() and I'll be happy to add it (provided the server is relatively large or small and is active)
   
   
 If you 100% insist on adding a private server to your own magical little fork, you can do so by adding it to **servers.json**. Simply add a new object to the array with the following information:
@@ -72,7 +58,7 @@ There's also a few optional values for fine-tuning. I'll add more over time
 
   
 
-GDBrowser has a lot of folders. [citation needed]
+GDBrowser + has a lot of folders. [citation needed]
 
 I pride myself in keeping my files neat, without doing the whole `src/main/data/stuff/code/homework/newfolder/util/actualcode` garbage 
 
