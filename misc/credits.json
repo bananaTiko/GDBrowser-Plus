@@ -1,7 +1,12 @@
 {
     "credits": [
+                {
+            "header": "GD Browser Plus",
+            "name": "bananaTiko",
+            "github": ["https://github.com/bananaTiko", "github"]
+        },
         {
-            "header": "Programming/Website",
+            "header": "Insperation for GD Browser Plus",
             "name": "Colon",
             "youtube": ["https://youtube.com/channel/UCFDsxSlQXpLLpVScy2NmbcQ", "youtube"],
             "twitter": ["https://twitter.com/TheRealGDColon", "twitter"],
